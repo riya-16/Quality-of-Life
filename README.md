@@ -5,7 +5,7 @@ You can find the more information regarding the model development here https://i
 # Execution
 The zip folder contains all the necessary files to execute the project.
 
-data\qol\sentinel.csv: has lat long information for USA counties
+data/qol/sentinel.csv: has lat long information for USA counties
 
 eo_download.py: download the satellite imagery
 
