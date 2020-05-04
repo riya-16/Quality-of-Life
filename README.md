@@ -6,7 +6,7 @@ The zip folder contains all the necessary files to execute the project.
 
 data\qol\sentinel.csv: has lat long information for USA counties
 
-eo_download.py: downlowd the satellite imagery
+eo_download.py: download the satellite imagery
 
 preprocess.py: process the images
 
