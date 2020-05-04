@@ -1,2 +1,2 @@
 # Quality-of-Life
-Quality of Life for USA counties
+Predicting quality of life for USA counties using satellite imagery https://info.gramener.com/whitepaper-satellite-images-quality-of-life
