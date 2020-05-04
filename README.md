@@ -1,7 +1,8 @@
 # Quality-of-Life
-Predicting quality of life for USA counties using satellite imagery https://info.gramener.com/whitepaper-satellite-images-quality-of-life
+This repository contains code that helps you to build a model which will predict the quality of life from satellite imagery.
+You can find the more information regarding the model development here https://info.gramener.com/whitepaper-satellite-images-quality-of-life. The code is available under MIT License
 
-
+# Execution
 The zip folder contains all the necessary files to execute the project.
 
 data\qol\sentinel.csv: has lat long information for USA counties
